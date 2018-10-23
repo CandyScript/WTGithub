@@ -30,6 +30,7 @@
     <addaction name="actionOpen"/>
     <addaction name="actionOpen_2"/>
     <addaction name="actionSave"/>
+    <addaction name="actionGG"/>
    </widget>
    <widget class="QMenu" name="menuEdit">
     <property name="title">
@@ -142,6 +143,11 @@
   <action name="actionFFF">
    <property name="text">
     <string>FFF</string>
+   </property>
+  </action>
+  <action name="actionGG">
+   <property name="text">
+    <string>GG</string>
    </property>
   </action>
  </widget>
