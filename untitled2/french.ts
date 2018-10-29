@@ -1,92 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="en">
+<TS version="2.1" language="fr_FR">
 <context>
     <name>MainWindow</name>
     <message>
         <location filename="mainwindow.ui" line="14"/>
         <source>MainWindow</source>
-        <translation type="unfinished">MainWindow</translation>
+        <translation type="unfinished">page</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="28"/>
         <source>File</source>
-        <translation type="unfinished">File</translation>
+        <translation type="unfinished">documentation</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="37"/>
         <source>Edit</source>
-        <translation type="unfinished">Edit</translation>
+        <translation type="unfinished">l’édition</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="44"/>
         <source>Build</source>
-        <translation type="unfinished">Build</translation>
+        <translation type="unfinished">fonctionnement</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="49"/>
         <source>Tools</source>
-        <translation type="unfinished">Tools</translation>
+        <translation type="unfinished">méthodes</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="55"/>
         <source>Help</source>
-        <translation type="unfinished">Help</translation>
+        <translation type="unfinished">aider</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="59"/>
         <source>Language</source>
-        <translation type="unfinished">Language</translation>
+        <translation type="unfinished">La langue</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="87"/>
         <source>New</source>
-        <translation type="unfinished">New</translation>
+        <translation type="unfinished">construction</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="92"/>
         <source>Open</source>
-        <translation type="unfinished">Open</translation>
+        <translation type="unfinished">ouvrir</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="97"/>
         <source>Save</source>
-        <translation type="unfinished">Save</translation>
+        <translation type="unfinished">conservation</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="102"/>
         <source>Insert</source>
-        <translation type="unfinished">Insert</translation>
+        <translation type="unfinished">insérer</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="107"/>
         <source>Delete</source>
-        <translation type="unfinished">Delete</translation>
+        <translation type="unfinished">supprimer</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="112"/>
         <source>Draw</source>
-        <translation type="unfinished">Draw</translation>
+        <translation type="unfinished">peinture</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="117"/>
         <source>About Us</source>
-        <translation type="unfinished">About Us</translation>
+        <translation type="unfinished">Sur nous</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="122"/>
         <source>English</source>
-        <translation type="unfinished">English</translation>
+        <translation type="unfinished">anglais</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="127"/>
         <source>Chinese</source>
-        <translation type="unfinished">Chinese</translation>
+        <translation type="unfinished">chinois</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="132"/>
         <source>Japanese</source>
-        <translation type="unfinished">Japanese</translation>
+        <translation type="unfinished">japonais</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="137"/>
@@ -107,17 +107,16 @@
     <message>
         <location filename="mainwindow.ui" line="157"/>
         <source>Tradition</source>
-        <translation type="unfinished">Traditional</translation>
+        <translation type="unfinished">Chinois traditionnel</translation>
     </message>
     <message>
         <source>Simple</source>
-        <translatorcomment>簡体中国語</translatorcomment>
-        <translation type="obsolete">Traditional</translation>
+        <translation type="obsolete">Chinois traditionnel</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="162"/>
         <source>French</source>
-        <translation type="unfinished">French</translation>
+        <translation type="unfinished">français</translation>
     </message>
 </context>
 </TS>

@@ -22,6 +22,10 @@ private slots:
 
     void on_actionJapan_triggered();
 
+    void on_actionSimple_triggered();
+
+    void on_actionFrench_triggered();
+
 private:
     Ui::MainWindow *ui;
 };

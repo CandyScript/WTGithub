@@ -41,3 +41,19 @@ void MainWindow::on_actionJapan_triggered()
     qApp->installTranslator(translator);
     ui->retranslateUi(this);
 }
+
+void MainWindow::on_actionSimple_triggered()
+{
+    QTranslator *translator=new QTranslator;
+    translator->load("../untitled2/simple.qm");
+    qApp->installTranslator(translator);
+    ui->retranslateUi(this);
+}
+
+void MainWindow::on_actionFrench_triggered()
+{
+    QTranslator *translator=new QTranslator;
+    translator->load("../untitled2/french.qm");
+    qApp->installTranslator(translator);
+    ui->retranslateUi(this);
+}

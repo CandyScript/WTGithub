@@ -20,7 +20,7 @@
      <x>0</x>
      <y>0</y>
      <width>400</width>
-     <height>22</height>
+     <height>23</height>
     </rect>
    </property>
    <widget class="QMenu" name="menuFile">
@@ -30,7 +30,7 @@
     <addaction name="actionOpen"/>
     <addaction name="actionOpen_2"/>
     <addaction name="actionSave"/>
-    <addaction name="actionGG"/>
+    <addaction name="separator"/>
    </widget>
    <widget class="QMenu" name="menuEdit">
     <property name="title">
@@ -61,6 +61,8 @@
      <addaction name="actionEnglish"/>
      <addaction name="actionChinese"/>
      <addaction name="actionJapan"/>
+     <addaction name="actionSimple"/>
+     <addaction name="actionFrench"/>
     </widget>
     <addaction name="actionAbout_Us"/>
     <addaction name="menuLanguage"/>
@@ -148,6 +150,16 @@
   <action name="actionGG">
    <property name="text">
     <string>GG</string>
+   </property>
+  </action>
+  <action name="actionSimple">
+   <property name="text">
+    <string>Tradition</string>
+   </property>
+  </action>
+  <action name="actionFrench">
+   <property name="text">
+    <string>French</string>
    </property>
   </action>
  </widget>

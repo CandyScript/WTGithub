@@ -41,4 +41,6 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 
 TRANSLATIONS += english.ts \
                 chinese.ts\
-                japanese.ts
+                japanese.ts\
+                simple.ts\
+                french.ts
